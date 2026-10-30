@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Node / Remotion
+node_modules/
+out/
+dist/
+
+# Shotcraft runtime & backups
+.shotcraft-backups/
+.shotcraft-stage-*/
+video-test/
+video-renders/
+qa/remotion-render.log
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+# Core Pillow/FFmpeg renderer. Python 3.11+; ffmpeg/ffprobe installed separately.
+numpy>=1.26,<3
+Pillow>=10.4,<13
+scipy>=1.11,<2
